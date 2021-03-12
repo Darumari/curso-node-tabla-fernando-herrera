@@ -1,0 +1,1 @@
+El comando "npm update" actualiza todos los paquetes que esta utilizando el proyecto de manera automatica.
